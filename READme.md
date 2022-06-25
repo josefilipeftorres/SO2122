@@ -4,7 +4,7 @@
 
 - Resultados
 	- Teste teórico: 16,4
-	- Teste prático: 
-	- Exame teórico:
+	- Teste prático: 70%
+	- Exame teórico: 18,2
 
 - Nota final: 
